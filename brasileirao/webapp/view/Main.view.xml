@@ -7,40 +7,40 @@
         <ObjectHeader id="_IDGenObjectHeader1" title="{ModeloDadosGerais>/nome}" number="{ModeloDadosGerais>/rodada_atual/rodada}ª" numberUnit="rodada">
         </ObjectHeader>
 
-        <IconTabBar id="_IDGenIconTabBar1" >
+        <IconTabBar id="_IDGenIconTabBar1"  >
         <items>
-        <IconTabFilter id="_IDGenIconTabFilter1" text="Classificação" icon="sap-icon://competitor">
+        <IconTabFilter id="_IDGenIconTabFilter1"  text="Classificação" icon="sap-icon://competitor">
         
         <Table id="tabelaClassificacao" items="{ModeloTabela>/Classificacao}">
         <columns>
-        <Column id="_IDGenColumn1" ><Text id="_IDGenText1" text="Posição"></Text></Column>
-        <Column id="_IDGenColumn2" ><Text id="_IDGenText2" text="Escudo"></Text></Column>
-        <Column id="_IDGenColumn3" ><Text id="_IDGenText3" text="Time"></Text></Column>
-        <Column id="_IDGenColumn4" ><Text id="_IDGenText4" text="Pontos"></Text></Column>
-        <Column id="_IDGenColumn5" ><Text id="_IDGenText5" text="Jogos"></Text></Column>
-        <Column id="_IDGenColumn6" ><Text id="_IDGenText6" text="Vitórias"></Text></Column>
-        <Column id="_IDGenColumn7" ><Text id="_IDGenText7" text="Empates"></Text></Column>
-        <Column id="_IDGenColumn8" ><Text id="_IDGenText8" text="Derrotas"></Text></Column>
-        <Column id="_IDGenColumn9" ><Text id="_IDGenText9" text="GM"></Text></Column>
-        <Column id="_IDGenColumn10" ><Text id="_IDGenText10" text="GC"></Text></Column>
-        <Column id="_IDGenColumn11" ><Text id="_IDGenText11" text="SG"></Text></Column>
+        <Column  ><Text  text="Posição"></Text></Column>
+        <Column  ><Text  text="Escudo"></Text></Column>
+        <Column  ><Text  text="Time"></Text></Column>
+        <Column  ><Text  text="Pontos"></Text></Column>
+        <Column  ><Text  text="Jogos"></Text></Column>
+        <Column  ><Text  text="Vitórias"></Text></Column>
+        <Column  ><Text  text="Empates"></Text></Column>
+        <Column  ><Text  text="Derrotas"></Text></Column>
+        <Column  ><Text  text="GM"></Text></Column>
+        <Column  ><Text  text="GC"></Text></Column>
+        <Column  ><Text  text="SG"></Text></Column>
         </columns>
         <items>
-        <ColumnListItem id="_IDGenColumnListItem1" >
+        <ColumnListItem  >
         <cells>
-        <Text id="_IDGenText12" text="{ModeloTabela>posicao}"></Text>
-        <Image id="_IDGenImage1" width="50%" src="{ModeloTabela>time/escudo}"></Image>
+        <Text  text="{ModeloTabela>posicao}"></Text>
+        <Image  width="50%" src="{ModeloTabela>time/escudo}"></Image>
 
 
-        <Text id="_IDGenText13" text="{ModeloTabela>time/nome_popular}"></Text>
-        <Text id="_IDGenText14" text="{ModeloTabela>pontos}"></Text>
-        <Text id="_IDGenText15" text="{ModeloTabela>jogos}"></Text>
-        <Text id="_IDGenText16" text="{ModeloTabela>vitorias}"></Text>
-        <Text id="_IDGenText17" text="{ModeloTabela>empates}"></Text>
-        <Text id="_IDGenText18" text="{ModeloTabela>derrotas}"></Text>
-        <Text id="_IDGenText19" text="{ModeloTabela>gols_pro}"></Text>
-        <Text id="_IDGenText20" text="{ModeloTabela>gols_contra}"></Text>
-        <Text id="_IDGenText21" text="{ModeloTabela>saldo_gols}"></Text>        
+        <Text  text="{ModeloTabela>time/nome_popular}"></Text>
+        <Text  text="{ModeloTabela>pontos}"></Text>
+        <Text  text="{ModeloTabela>jogos}"></Text>
+        <Text  text="{ModeloTabela>vitorias}"></Text>
+        <Text  text="{ModeloTabela>empates}"></Text>
+        <Text  text="{ModeloTabela>derrotas}"></Text>
+        <Text  text="{ModeloTabela>gols_pro}"></Text>
+        <Text  text="{ModeloTabela>gols_contra}"></Text>
+        <Text  text="{ModeloTabela>saldo_gols}"></Text>        
         </cells>
         </ColumnListItem>
         </items>

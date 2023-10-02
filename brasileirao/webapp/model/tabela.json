@@ -1,0 +1,524 @@
+{ "Classificacao" :
+[
+    {
+        "posicao": 1,
+        "pontos": 73,
+        "time": {
+            "time_id": 5,
+            "nome_popular": "Chapecoense",
+            "sigla": "CHA",
+            "escudo": "https://cdn.api-futebol.com.br/escudos/638d348712019.svg"
+        },
+        "jogos": 38,
+        "vitorias": 20,
+        "empates": 13,
+        "derrotas": 5,
+        "gols_pro": 42,
+        "gols_contra": 21,
+        "saldo_gols": 21,
+        "aproveitamento": 64,
+        "variacao_posicao": 1,
+        "ultimos_jogos": [
+            "v",
+            "e",
+            "v",
+            "d",
+            "v"
+        ]
+    },
+    {
+        "posicao": 2,
+        "pontos": 73,
+        "time": {
+            "time_id": 33,
+            "nome_popular": "América-MG",
+            "sigla": "AMG",
+            "escudo": "https://cdn.api-futebol.com.br/escudos/638d34966e9c6.svg"
+        },
+        "jogos": 38,
+        "vitorias": 20,
+        "empates": 13,
+        "derrotas": 5,
+        "gols_pro": 43,
+        "gols_contra": 23,
+        "saldo_gols": 20,
+        "aproveitamento": 64,
+        "variacao_posicao": -1,
+        "ultimos_jogos": [
+            "e",
+            "e",
+            "e",
+            "e",
+            "v"
+        ]
+    },
+    {
+        "posicao": 3,
+        "pontos": 61,
+        "time": {
+            "time_id": 43,
+            "nome_popular": "Juventude",
+            "sigla": "JUV",
+            "escudo": "https://cdn.api-futebol.com.br/escudos/638d349b308c6.svg"
+        },
+        "jogos": 38,
+        "vitorias": 17,
+        "empates": 10,
+        "derrotas": 11,
+        "gols_pro": 52,
+        "gols_contra": 42,
+        "saldo_gols": 10,
+        "aproveitamento": 53.5,
+        "variacao_posicao": 1,
+        "ultimos_jogos": [
+            "d",
+            "v",
+            "d",
+            "v",
+            "v"
+        ]
+    },
+    {
+        "posicao": 4,
+        "pontos": 61,
+        "time": {
+            "time_id": 204,
+            "nome_popular": "Cuiabá",
+            "sigla": "CUI",
+            "escudo": "https://cdn.api-futebol.com.br/escudos/638d34ebcdafa.svg"
+        },
+        "jogos": 38,
+        "vitorias": 17,
+        "empates": 10,
+        "derrotas": 11,
+        "gols_pro": 48,
+        "gols_contra": 40,
+        "saldo_gols": 8,
+        "aproveitamento": 53.5,
+        "variacao_posicao": -1,
+        "ultimos_jogos": [
+            "e",
+            "v",
+            "v",
+            "d",
+            "d"
+        ]
+    },
+    {
+        "posicao": 5,
+        "pontos": 58,
+        "time": {
+            "time_id": 95,
+            "nome_popular": "CSA",
+            "sigla": "CSA",
+            "escudo": "https://cdn.api-futebol.com.br/escudos/638d34b771b66.svg"
+        },
+        "jogos": 38,
+        "vitorias": 16,
+        "empates": 10,
+        "derrotas": 12,
+        "gols_pro": 50,
+        "gols_contra": 37,
+        "saldo_gols": 13,
+        "aproveitamento": 50.9,
+        "variacao_posicao": 0,
+        "ultimos_jogos": [
+            "d",
+            "e",
+            "v",
+            "e",
+            "e"
+        ]
+    },
+    {
+        "posicao": 6,
+        "pontos": 57,
+        "time": {
+            "time_id": 120,
+            "nome_popular": "Sampaio Corrêa",
+            "sigla": "SAM",
+            "escudo": "https://cdn.api-futebol.com.br/escudos/638d34c43b39a.svg"
+        },
+        "jogos": 38,
+        "vitorias": 17,
+        "empates": 6,
+        "derrotas": 15,
+        "gols_pro": 50,
+        "gols_contra": 38,
+        "saldo_gols": 12,
+        "aproveitamento": 50,
+        "variacao_posicao": 1,
+        "ultimos_jogos": [
+            "d",
+            "v",
+            "v",
+            "v",
+            "v"
+        ]
+    },
+    {
+        "posicao": 7,
+        "pontos": 57,
+        "time": {
+            "time_id": 61,
+            "nome_popular": "Ponte Preta",
+            "sigla": "PON",
+            "escudo": "https://cdn.api-futebol.com.br/escudos/638d34a46fbd4.svg"
+        },
+        "jogos": 38,
+        "vitorias": 16,
+        "empates": 9,
+        "derrotas": 13,
+        "gols_pro": 54,
+        "gols_contra": 49,
+        "saldo_gols": 5,
+        "aproveitamento": 50,
+        "variacao_posicao": 1,
+        "ultimos_jogos": [
+            "e",
+            "v",
+            "d",
+            "v",
+            "v"
+        ]
+    },
+    {
+        "posicao": 8,
+        "pontos": 57,
+        "time": {
+            "time_id": 117,
+            "nome_popular": "Operário-PR",
+            "sigla": "OPE",
+            "escudo": "https://cdn.api-futebol.com.br/escudos/638d34c28e3da.svg"
+        },
+        "jogos": 38,
+        "vitorias": 15,
+        "empates": 12,
+        "derrotas": 11,
+        "gols_pro": 40,
+        "gols_contra": 34,
+        "saldo_gols": 6,
+        "aproveitamento": 50,
+        "variacao_posicao": 1,
+        "ultimos_jogos": [
+            "v",
+            "v",
+            "d",
+            "v",
+            "v"
+        ]
+    },
+    {
+        "posicao": 9,
+        "pontos": 55,
+        "time": {
+            "time_id": 6,
+            "nome_popular": "Avaí",
+            "sigla": "AVA",
+            "escudo": "https://cdn.api-futebol.com.br/escudos/638d3487aa471.svg"
+        },
+        "jogos": 38,
+        "vitorias": 16,
+        "empates": 7,
+        "derrotas": 15,
+        "gols_pro": 45,
+        "gols_contra": 49,
+        "saldo_gols": -4,
+        "aproveitamento": 48.2,
+        "variacao_posicao": -3,
+        "ultimos_jogos": [
+            "e",
+            "e",
+            "v",
+            "v",
+            "d"
+        ]
+    },
+    {
+        "posicao": 10,
+        "pontos": 52,
+        "time": {
+            "time_id": 90,
+            "nome_popular": "CRB",
+            "sigla": "CRB",
+            "escudo": "https://cdn.api-futebol.com.br/escudos/638d34b537c81.svg"
+        },
+        "jogos": 38,
+        "vitorias": 15,
+        "empates": 7,
+        "derrotas": 16,
+        "gols_pro": 48,
+        "gols_contra": 47,
+        "saldo_gols": 1,
+        "aproveitamento": 45.6,
+        "variacao_posicao": 0,
+        "ultimos_jogos": [
+            "v",
+            "d",
+            "v",
+            "d",
+            "v"
+        ]
+    },
+    {
+        "posicao": 11,
+        "pontos": 49,
+        "time": {
+            "time_id": 37,
+            "nome_popular": "Cruzeiro",
+            "sigla": "CRU",
+            "escudo": "https://cdn.api-futebol.com.br/escudos/638d34984830b.svg"
+        },
+        "jogos": 38,
+        "vitorias": 14,
+        "empates": 13,
+        "derrotas": 11,
+        "gols_pro": 39,
+        "gols_contra": 32,
+        "saldo_gols": 7,
+        "aproveitamento": 48.2,
+        "variacao_posicao": 1,
+        "ultimos_jogos": [
+            "d",
+            "d",
+            "v",
+            "e",
+            "e"
+        ]
+    },
+    {
+        "posicao": 12,
+        "pontos": 49,
+        "time": {
+            "time_id": 48,
+            "nome_popular": "Brasil de Pelotas",
+            "sigla": "BRA",
+            "escudo": "https://cdn.api-futebol.com.br/escudos/638d349dcc476.svg"
+        },
+        "jogos": 38,
+        "vitorias": 11,
+        "empates": 16,
+        "derrotas": 11,
+        "gols_pro": 31,
+        "gols_contra": 33,
+        "saldo_gols": -2,
+        "aproveitamento": 43,
+        "variacao_posicao": -1,
+        "ultimos_jogos": [
+            "v",
+            "d",
+            "e",
+            "e",
+            "d"
+        ]
+    },
+    {
+        "posicao": 13,
+        "pontos": 48,
+        "time": {
+            "time_id": 54,
+            "nome_popular": "Guarani",
+            "sigla": "GUA",
+            "escudo": "https://cdn.api-futebol.com.br/escudos/638d34a0c3635.svg"
+        },
+        "jogos": 38,
+        "vitorias": 13,
+        "empates": 9,
+        "derrotas": 16,
+        "gols_pro": 41,
+        "gols_contra": 48,
+        "saldo_gols": -7,
+        "aproveitamento": 42.1,
+        "variacao_posicao": 0,
+        "ultimos_jogos": [
+            "d",
+            "d",
+            "d",
+            "d",
+            "d"
+        ]
+    },
+    {
+        "posicao": 14,
+        "pontos": 48,
+        "time": {
+            "time_id": 102,
+            "nome_popular": "Vitória",
+            "sigla": "VIT",
+            "escudo": "https://cdn.api-futebol.com.br/escudos/638d34bb4bf99.svg"
+        },
+        "jogos": 38,
+        "vitorias": 11,
+        "empates": 15,
+        "derrotas": 12,
+        "gols_pro": 45,
+        "gols_contra": 45,
+        "saldo_gols": 0,
+        "aproveitamento": 42.1,
+        "variacao_posicao": 1,
+        "ultimos_jogos": [
+            "e",
+            "e",
+            "v",
+            "v",
+            "v"
+        ]
+    },
+    {
+        "posicao": 15,
+        "pontos": 46,
+        "time": {
+            "time_id": 205,
+            "nome_popular": "Confiança",
+            "sigla": "CON",
+            "escudo": "https://cdn.api-futebol.com.br/escudos/638d34ec71a62.svg"
+        },
+        "jogos": 38,
+        "vitorias": 12,
+        "empates": 10,
+        "derrotas": 16,
+        "gols_pro": 38,
+        "gols_contra": 46,
+        "saldo_gols": -8,
+        "aproveitamento": 40.4,
+        "variacao_posicao": -1,
+        "ultimos_jogos": [
+            "d",
+            "v",
+            "d",
+            "e",
+            "d"
+        ]
+    },
+    {
+        "posicao": 16,
+        "pontos": 44,
+        "time": {
+            "time_id": 74,
+            "nome_popular": "Náutico",
+            "sigla": "NAU",
+            "escudo": "https://cdn.api-futebol.com.br/escudos/638d34abdc099.svg"
+        },
+        "jogos": 38,
+        "vitorias": 10,
+        "empates": 14,
+        "derrotas": 14,
+        "gols_pro": 35,
+        "gols_contra": 42,
+        "saldo_gols": -7,
+        "aproveitamento": 38.6,
+        "variacao_posicao": 0,
+        "ultimos_jogos": [
+            "e",
+            "d",
+            "v",
+            "e",
+            "e"
+        ]
+    },
+    {
+        "posicao": 17,
+        "pontos": 39,
+        "time": {
+            "time_id": 9,
+            "nome_popular": "Figueirense",
+            "sigla": "FIG",
+            "escudo": "https://cdn.api-futebol.com.br/escudos/638d348943c6c.svg"
+        },
+        "jogos": 38,
+        "vitorias": 9,
+        "empates": 12,
+        "derrotas": 17,
+        "gols_pro": 35,
+        "gols_contra": 49,
+        "saldo_gols": -14,
+        "aproveitamento": 34.2,
+        "variacao_posicao": 0,
+        "ultimos_jogos": [
+            "d",
+            "v",
+            "d",
+            "d",
+            "d"
+        ]
+    },
+    {
+        "posicao": 18,
+        "pontos": 37,
+        "time": {
+            "time_id": 76,
+            "nome_popular": "Paraná",
+            "sigla": "PAR",
+            "escudo": "https://cdn.api-futebol.com.br/escudos/638d34acf14b4.svg"
+        },
+        "jogos": 38,
+        "vitorias": 9,
+        "empates": 10,
+        "derrotas": 19,
+        "gols_pro": 34,
+        "gols_contra": 50,
+        "saldo_gols": -16,
+        "aproveitamento": 32.5,
+        "variacao_posicao": 0,
+        "ultimos_jogos": [
+            "v",
+            "d",
+            "d",
+            "d",
+            "e"
+        ]
+    },
+    {
+        "posicao": 19,
+        "pontos": 34,
+        "time": {
+            "time_id": 66,
+            "nome_popular": "Botafogo-SP",
+            "sigla": "BOT",
+            "escudo": "https://cdn.api-futebol.com.br/escudos/638d34a7e5f9a.svg"
+        },
+        "jogos": 38,
+        "vitorias": 8,
+        "empates": 10,
+        "derrotas": 20,
+        "gols_pro": 26,
+        "gols_contra": 39,
+        "saldo_gols": -13,
+        "aproveitamento": 29.8,
+        "variacao_posicao": 0,
+        "ultimos_jogos": [
+            "v",
+            "e",
+            "d",
+            "d",
+            "d"
+        ]
+    },
+    {
+        "posicao": 20,
+        "pontos": 29,
+        "time": {
+            "time_id": 52,
+            "nome_popular": "Oeste",
+            "sigla": "OES",
+            "escudo": "https://cdn.api-futebol.com.br/escudos/638d349fed9c0.svg"
+        },
+        "jogos": 38,
+        "vitorias": 7,
+        "empates": 8,
+        "derrotas": 23,
+        "gols_pro": 28,
+        "gols_contra": 60,
+        "saldo_gols": -32,
+        "aproveitamento": 25.4,
+        "variacao_posicao": 0,
+        "ultimos_jogos": [
+            "v",
+            "d",
+            "d",
+            "v",
+            "d"
+        ]
+    }
+]
+}
